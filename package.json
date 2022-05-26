@@ -1,0 +1,19 @@
+{
+  "name": "fundraising-solidity",
+  "version": "1.0.0",
+  "description": "This is a project where people can make donations to some campaigns for saving pets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruzvale33/fundraising-solidity.git"
+  },
+  "author": "Cruz Valerio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruzvale33/fundraising-solidity/issues"
+  },
+  "homepage": "https://github.com/cruzvale33/fundraising-solidity#readme"
+}
